@@ -8,5 +8,5 @@ setup(name='unicono-python',
       author_email='lorenzo.carbonell.cerezo@gmail.com',
       url='https://www.atareao.es',
       license='GPLv3',
-      data_files=[('/usr/share/applications',
-                  ['data/extras-pushbullet-indicator.desktop'])])
+      data_files=[('/usr/share/icons/hicolor/scalable/apps',
+                  ['data/ubuntu.svg'])])
