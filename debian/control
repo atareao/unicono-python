@@ -1,12 +1,12 @@
-Source: unicono
+Source: unicono-python
 Section: x11
 Priority: optional
 Maintainer: Lorenzo Carbonell Cerezo <lorenzo.carbonell.cerezo@gmail.com>
-Build-Depends: debhelper (>= 10)
+Build-Depends: debhelper (>= 10), python3, python3-distutils-extra
 Standards-Version: 4.0.0
 Homepage: https://www.atareao.es/
 
-Package: unicono
+Package: unicono-python
 Architecture: all
 Description: Primer ejemplo de empaquetamiento
  Esto es un ejemplo de como crear un paquete

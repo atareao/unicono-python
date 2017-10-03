@@ -3,4 +3,4 @@
 
 
 %:
-	dh $@
+	dh $@ --with python3
